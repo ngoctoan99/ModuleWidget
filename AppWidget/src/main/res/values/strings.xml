@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WidgetPoolDashboard</string>
+    <string name="name_app">Name app</string>
+    <string name="point_1000">1000</string>
+    <string name="total_point">Total Point:</string>
+    <string name="earn_point_to_day">Earn Point to day :</string>
+</resources>
